@@ -1,4 +1,6 @@
 # Modulo2
+[Modulo2_CeballosSanchezMiguel.pdf](https://github.com/user-attachments/files/22633713/Modulo2_CeballosSanchezMiguel.pdf)
+
 **Descripción**
   Este proyecto consiste en el diseño e implementación de una interfaz gráfica en Java
   Swing siguiendo un wireframe y un árbol de contenedores previamente planificados.
